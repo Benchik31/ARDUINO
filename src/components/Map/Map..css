@@ -1,0 +1,16 @@
+.map__body {
+    margin: auto;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.ymaps-2-1-79-map {
+    width: 100%;
+
+}
+
+.map__class {
+    width: 100%;
+}
